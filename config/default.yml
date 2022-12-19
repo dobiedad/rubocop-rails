@@ -920,6 +920,12 @@ Rails/SchemaComment:
   Enabled: false
   VersionAdded: '2.13'
 
+Rails/SchemaNoDefaults:
+  Description: >-
+    Enforces no defaults in the schema
+  Enabled: false
+  VersionAdded: '2.13'
+
 Rails/ScopeArgs:
   Description: 'Checks the arguments of ActiveRecord scopes.'
   Enabled: true
